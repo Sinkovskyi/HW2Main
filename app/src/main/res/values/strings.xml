@@ -1,0 +1,12 @@
+<resources>
+    <!-- ______________________First Activity_____________________________________-->
+    <string name="app_name">HomeWork2Main</string>
+    <string name="buttonOnTheFirstActivity">Click</string>
+    <!-- ______________________Second Activity_____________________________________-->
+
+    <string name="buttonOnTheSecondActivity">Click</string>
+    <string name="editTextOnTheSecondActivity"></string>
+
+    <!-- ______________________Second Activity_____________________________________-->
+
+</resources>
